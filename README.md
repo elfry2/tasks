@@ -4,4 +4,4 @@ A basic to-do list app I wrote while learning Laravel 8.
 # Installation
 Create a database and edit the ```.env``` file to match your environment configuration, then run ```composer update && php artisan migrate:fresh --seed```.
 # Usage
-Run ```php artisan serve``` and visit https://localhost:8000 (or whichever port ```artisan``` serves on) on your browser.
+Run ```php artisan serve``` and visit http://localhost:8000 (or whichever port ```artisan``` serves on) on your browser.
